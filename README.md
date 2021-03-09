@@ -6,6 +6,7 @@
 - [ ] JavaScript30 [playlist](https://www.youtube.com/watch?v=VuN8qwZoego&list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH) for exercises
 - [ ] Generative Design in `p5.js` by Gro&#223; et. al.
 - [ ] JavaScript for Data Science by Gans et. al.
+- [ ] The Nature of Code by Daniel Shiffman
 ### Technical Resources
 #### Installing node-gyp for package building
 https://github.com/nodejs/node-gyp#on-windows
