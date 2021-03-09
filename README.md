@@ -7,6 +7,7 @@
 - [ ] Generative Design in `p5.js` by Gro&#223; et. al.
 - [ ] JavaScript for Data Science by Gans et. al.
 - [ ] The Nature of Code by Daniel Shiffman
+- [ ] Fullstack React by Accomazzo et. al. **or** React Quickly by Mardan
 ### Technical Resources
 #### Installing node-gyp for package building
 https://github.com/nodejs/node-gyp#on-windows
